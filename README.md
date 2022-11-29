@@ -20,10 +20,10 @@
 
 Available on Docker Hub as [`docker.io/ricardbejarano/haproxy_exporter`](https://hub.docker.com/r/ricardbejarano/haproxy_exporter):
 
-- [`0.13.0`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.14.0`, `latest` *(Dockerfile)*](Dockerfile)
 
 ### RedHat Quay
 
 Available on RedHat Quay as [`quay.io/ricardbejarano/haproxy_exporter`](https://quay.io/repository/ricardbejarano/haproxy_exporter):
 
-- [`0.13.0`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.14.0`, `latest` *(Dockerfile)*](Dockerfile)
