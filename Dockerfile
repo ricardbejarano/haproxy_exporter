@@ -1,7 +1,7 @@
 FROM golang:1-alpine AS build
 
-ARG VERSION="0.14.0"
-ARG CHECKSUM="8cccb7516bdc226e2d924a769441fd5739e8c9e8c6a413788663cb524e2d2bad"
+ARG VERSION="0.15.0"
+ARG CHECKSUM="d2e16961365508d5e1854d6187e4b5d9dbceb9fcfb71e2af82c7d09900a9231e"
 
 ADD https://github.com/prometheus/haproxy_exporter/archive/v$VERSION.tar.gz /tmp/haproxy_exporter.tar.gz
 
